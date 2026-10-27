@@ -1,0 +1,3 @@
+# Smart Irrigation Autonomous Agent Dependencies
+gradio>=4.0.0,<6.0.0
+pytest>=8.0.0
